@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_home">Home</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+
+
+    <string name="s_d">s/d</string>
+
+
+    <string name="image_event">image event</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_setting">Setting</string>
+</resources>
